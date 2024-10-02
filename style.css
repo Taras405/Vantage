@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.nav-h{
+    display: flex;
+}
+
+.ul-h {
+    display: flex;
+}
+
+.ul-h li a {
+    
+}
